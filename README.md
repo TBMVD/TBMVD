@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Greetings,
 
 I'm Tobias, though I usually call myself TBMVD online. 
 

@@ -11,3 +11,7 @@ I'm Tobias, though I usually call myself TBMVD online.
 - 🖥️ Passionate about coding and building cool projects.
 - 📚 Always eager to learn and explore new technologies.
 - 🗣 Fluent in Both Dutch and English.
+
+
+
+Currently busy with an internship and a school project.

@@ -14,4 +14,4 @@ I'm Tobias, though I usually call myself TBMVD online.
 
 
 
-Currently busy with an internship and a school project.
+Currently busy with an internship and a school game project.

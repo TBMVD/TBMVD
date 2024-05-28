@@ -10,7 +10,7 @@ I'm Tobias, though I usually call myself TBMVD online.
 - 🤖 Somewhat intrigued by AI.
 - 🎨 Likes drawing pixel art from time to time.
 - 📚 Always eager to learn and explore new technologies.
-- 🗣 Fluent in Both Dutch and English.
+- 🗣 Fluent in both Dutch and English.
 
 
 

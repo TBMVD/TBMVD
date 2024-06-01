@@ -7,7 +7,7 @@ I'm Tobias, though I usually call myself TBMVD online.
 - 👨‍🎓 Currently studying Software Development.
 - 👨‍💻 Have encountered languages such as Python, C#, Java, HTML, CSS, and PHP.
 - 🎮 Passionate about game development.
-- 🤖 Somewhat intrigued by AI.
+- 🤖 Interested in AI.
 - 🎨 Likes drawing pixel art from time to time.
 - 📚 Always eager to learn and explore new technologies.
 - 🗣 Fluent in both Dutch and English.

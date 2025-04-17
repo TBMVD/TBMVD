@@ -14,6 +14,14 @@ I'm Tobias, though I usually call myself TBMVD online.
 
 
 
-Currently busy with an internship and a school game project.
+Almost done with exams and I am planning to  do some project in the near future.
+
+
+
+
+
+
+
+
 
 ![resist](https://github.com/user-attachments/assets/620c4a09-37a0-48c5-9853-12f4c1ecda00)

@@ -16,4 +16,4 @@ I'm Tobias, though I usually call myself TBMVD online.
 
 Currently busy with an internship and a school game project.
 
-![resist](https://github.com/user-attachments/assets/97c23b1b-459c-4b2a-9632-d449efcf231d)
+![resist](https://github.com/user-attachments/assets/620c4a09-37a0-48c5-9853-12f4c1ecda00)

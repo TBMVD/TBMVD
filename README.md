@@ -1,3 +1,5 @@
+<img width="1737" height="950" alt="circuit-background" src="https://github.com/user-attachments/assets/36afc97f-0522-4e22-889c-7008c9ecf1cc" />
+
 # 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬 
 
 I'm Tobias, though I usually call myself TBMVD online. 

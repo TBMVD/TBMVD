@@ -12,15 +12,30 @@ I'm Tobias, though I usually call myself TBMVD online.
 - 🎨 Likes drawing pixel art from time to time.
 - 📚 Always eager to learn and explore new technologies like AI.
 - 🗣 Fluent in both Dutch and English.
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![resist](https://github.com/user-attachments/assets/620c4a09-37a0-48c5-9853-12f4c1ecda00)

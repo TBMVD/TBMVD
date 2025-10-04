@@ -6,22 +6,21 @@ I'm Tobias, though I usually call myself TBMVD online.
 
 
 ## About Me
-- 👨‍🎓 Software Developer MBO Diploma.
-- 👨‍💻 Have encountered languages such as C#, Python, Java, HTML, CSS, and PHP.
+- 👨‍🎓 Software Developer MBO Diploma. Currently studying for an HBO Bachelor’s in Technical Computer Science.
+- 👨‍💻 Experience in C#. Have also worked with Python, Java, HTML, CSS, and PHP.
 - 🎮 Passionate about game development.
-- 🤖 Interested in AI.
 - 🎨 Likes drawing pixel art from time to time.
-- 📚 Always eager to learn and explore new technologies.
+- 📚 Always eager to learn and explore new technologies like AI.
 - 🗣 Fluent in both Dutch and English.
-
-
-
-
-
-
-
-
-
-
-
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 ![resist](https://github.com/user-attachments/assets/620c4a09-37a0-48c5-9853-12f4c1ecda00)
